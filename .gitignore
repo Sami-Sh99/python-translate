@@ -1,3 +1,4 @@
 env/*
 *.csv
 *.exe
+mapping_for_translation.txt
